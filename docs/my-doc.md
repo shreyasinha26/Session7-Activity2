@@ -9,9 +9,9 @@ slug: /my-custom-url
 
 Markdown text with [links](./hello.md)
 
-Let's see how to [Create a page](/create-a-page)
+Let's see how to [Create a page](./my-doc.md)
 
-Let's see how to [Create a page](./create-a-page.md)
+Let's see how to [Create a page](./my-doc.md)
 
 ![Docusaurus logo](/img/docusaurus.png)
 
